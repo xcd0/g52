@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name kbd)(type Legacy)(uri ${KIPRJMOD}/lib/kbd-master/kicad-symbols/kbd.lib)(options "")(descr ""))
+  (lib (name arduino)(type Legacy)(uri ${KIPRJMOD}/lib/kicad-lib-arduino-main/Arduino.lib)(options "")(descr ""))
+  (lib (name raspi-pico)(type Legacy)(uri ${KIPRJMOD}/lib/raspberry-pi-pico/pico_rp2040.lib)(options "")(descr ""))
+  (lib (name g52_pcb-rescue)(type Legacy)(uri ${KIPRJMOD}/g52_pcb-rescue.lib)(options "")(descr ""))
+)
